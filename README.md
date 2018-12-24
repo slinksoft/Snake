@@ -5,8 +5,9 @@ Concept demo of a recreation of the classic Snake game. This code applies everyt
 - Creating custom classes
 - Calling classes from one class to another
 - making custom methods/functions
-- Accessors and mutatora
+- Accessors and mutators
 - Switch statements
+- Access types
 - Drawing GUI objects to a canvas such as a WinForm (JFRAME in java)
 
 and much more. The concept demo features
